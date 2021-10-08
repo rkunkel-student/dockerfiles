@@ -19,8 +19,8 @@ $ 85
 $ exit    
       
 $ docker ps -l    
-$ docker commit <CONTAINER ID>     
-$ docker tag <SHA> python3-tk    
+$ docker commit "CONTAINER ID"      
+$ docker tag "SHA" python3-tk    
      
 ## Running python3-tk on Ubuntu
 
